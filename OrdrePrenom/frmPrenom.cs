@@ -30,13 +30,7 @@ namespace OrdrePrenom
 
                 while ((prenomLuParFichier = lectureDeFichier.ReadLine()) != null)
                 {
-                    for (int i = 0; i < prenomLuParFichier.Length; i++)
-                    {
-                        if (VOYELLES.Contains(prenomLuParFichier[i]))
-                        {
-                            nbVoyelles++;
-                        }
-                    }
+                    nbVoyelles += prenomLuParFichier.Count(t => VOYELLES.Contains(t));
 
                     if (nbVoyelles % 2 == 0)
                     {
@@ -53,6 +47,7 @@ namespace OrdrePrenom
             {
                 MessageBox.Show("Il y a eu une erreur lors de l'exécution du programme. Voici l'erreur : " + exception.Message, "Erreur", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
+            MessageBox.Show("Les noms ont été triés et placés dans le fichier sortie.txt.", "Processus terminé", MessageBoxButtons.OK, MessageBoxIcon.None);
         }
     }
 }

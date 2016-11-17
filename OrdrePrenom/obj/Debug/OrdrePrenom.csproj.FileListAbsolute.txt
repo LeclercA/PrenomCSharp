@@ -1,2 +1,10 @@
 C:\Users\Alexys\Desktop\OrdrePrenom\OrdrePrenom\bin\Debug\OrdrePrenom.exe.config
 Z:\PrenomCSharp\OrdrePrenom\bin\Debug\OrdrePrenom.exe.config
+Z:\PrenomCSharp\OrdrePrenom\bin\Debug\OrdrePrenom.exe
+Z:\PrenomCSharp\OrdrePrenom\bin\Debug\OrdrePrenom.pdb
+Z:\PrenomCSharp\OrdrePrenom\obj\Debug\OrdrePrenom.csprojResolveAssemblyReference.cache
+Z:\PrenomCSharp\OrdrePrenom\obj\Debug\OrdrePrenom.frmPrenom.resources
+Z:\PrenomCSharp\OrdrePrenom\obj\Debug\OrdrePrenom.Properties.Resources.resources
+Z:\PrenomCSharp\OrdrePrenom\obj\Debug\OrdrePrenom.csproj.GenerateResource.Cache
+Z:\PrenomCSharp\OrdrePrenom\obj\Debug\OrdrePrenom.exe
+Z:\PrenomCSharp\OrdrePrenom\obj\Debug\OrdrePrenom.pdb

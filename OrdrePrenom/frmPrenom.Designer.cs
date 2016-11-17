@@ -48,7 +48,7 @@
             this.ClientSize = new System.Drawing.Size(224, 49);
             this.Controls.Add(this.btnTrierLesNoms);
             this.Name = "frmPrenom";
-            this.Text = "Form1";
+            this.Text = "Trier les prénoms";
             this.ResumeLayout(false);
 
         }
