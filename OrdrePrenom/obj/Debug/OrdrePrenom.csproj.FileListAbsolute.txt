@@ -1,0 +1,2 @@
+C:\Users\Alexys\Desktop\OrdrePrenom\OrdrePrenom\bin\Debug\OrdrePrenom.exe.config
+Z:\PrenomCSharp\OrdrePrenom\bin\Debug\OrdrePrenom.exe.config
